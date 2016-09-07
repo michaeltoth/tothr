@@ -1,0 +1,12 @@
+Package: tothr
+Title: Michael Toth's R Code
+Version: 0.0.0.9000
+Authors@R: person("Michael", "Toth", email = "mt.toth@gmail.com", role = c("aut", "cre"))
+Description: This is a package containing miscellaneous R functions that I find useful or interesting.
+Depends: R (>= 3.3.1)
+License: MIT + file LICENSE
+URL: https://github.com/michaeltoth/tothr
+Encoding: UTF-8
+LazyData: true
+Imports: readr
+RoxygenNote: 5.0.1.9000
